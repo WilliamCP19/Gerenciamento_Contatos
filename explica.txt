@@ -1,0 +1,9 @@
+Utilizei os padrões de projetos "Adapter" como padrão estrutural e o padrão "Strategy" como padrão comportamental.
+
+Adapter Pattern (Padrão Adaptador): O Adapter é útil quando precisamos fazer com que interfaces incompatíveis trabalhem juntas.
+Utilizei para adaptar as funcionalidades de adicionar e remover contatos de forma que possamos facilmente estender ou
+alterar essas operações no futuro sem modificar o código existente.
+
+Strategy Pattern (Padrão Estratégia): O padrão Strategy permite definir uma família de algoritmos, encapsulá-los e torná-los
+intercambiáveis. 
+Utilizei para implementar a funcionalidade de busca de contatos, permitindo que diferentes algoritmos de busca sejam facilmente alternados.
