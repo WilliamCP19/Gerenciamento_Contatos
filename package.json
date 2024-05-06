@@ -1,7 +1,7 @@
 {
-  "name": "lista01",
+  "name": "lista02",
   "version": "1.0.0",
-  "description": "Atividade de um sistema de gerenciamento de contatos da Lista 01 - ES46A",
+  "description": "Atividade de um sistema de gerenciamento de contatos da Lista 02 - ES46A",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
